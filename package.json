@@ -1,0 +1,16 @@
+{
+  "name": "cti-scrum-skin",
+  "version": "0.0.1",
+  "description": "Custom display for Daily Sprints on the CTI Scrum Board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "jquery",
+    "scrum"
+  ],
+  "author": "Ryan.Hirsch@gmail.com",
+  "license": "BSD"
+}
